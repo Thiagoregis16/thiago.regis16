@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Thiago Regis
 
-- Hoje trabalho com front-end
 - Estudando Javascript e React.
 
 <div align="center">
