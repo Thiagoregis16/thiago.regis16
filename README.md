@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Thiago Regis
 
-- Estudando Javascript e React.
+- 🌱 Estudando Javascript e React.
 
 <div align="center">
   <a href="https://github.com/Thiagoregis16">
